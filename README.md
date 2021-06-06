@@ -1,4 +1,4 @@
-# springProduct
+# Spring Product
 
 Projeto criado com a finalidade de cadastrar produtos e validar os dados.<br> 
 **Tecnologias utilizadas:**
